@@ -2,3 +2,7 @@ requests
 beautifulsoup4
 dbt-core
 dbt-duckdb
+dash
+duckdb
+pandas
+plotly

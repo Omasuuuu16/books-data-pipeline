@@ -1,0 +1,7 @@
+books_project:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: C:\Users\Lenovo\depitask\airflow_s4\include\books.duckdb
+      threads: 1

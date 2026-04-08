@@ -3,5 +3,5 @@ books_project:
   outputs:
     dev:
       type: duckdb
-      path: C:\Users\Lenovo\depitask\airflow_s4\include\books.duckdb
+      path: /usr/local/airflow/include/books.duckdb
       threads: 1
